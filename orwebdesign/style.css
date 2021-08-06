@@ -2,6 +2,10 @@
     background-color: aqua;
 }
 .grid img{ 
-    border: 2px solid ❑black;
-     border-radius: 50px; 
+    border: solid; border-color: black; margin:0px; padding:auto; 
 } 
+
+.item:hover{
+     
+transform:scale(1.2);
+}
